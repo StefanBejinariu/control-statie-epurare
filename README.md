@@ -23,9 +23,8 @@ Proiect realizat în cadrul unei colaborări pentru automatizarea fluxului de ra
 
 - **C# WinForms**  
 - **SQL Server**  
-- **Guna UI / Custom Controls**  
-- **ClosedXML** (pentru export Excel)  
-- **MailKit / SMTP** (pentru trimitere email)  
+- **MailKit / SMTP** (pentru trimitere email)
+- **MQTT Protocol** (pentru colectarea datelor în timp real de la senzori/echipamente)  
 - **OPC UA/DA Client** (pentru conectare la serverul OPC și citire date de proces)
 
 ---
